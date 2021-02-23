@@ -2,3 +2,8 @@ Introducción
 ------------
 
 Lore ipsum dolor ......
+
+Punto 1
+--------
+
+Mirar la foto adjunta "imagen 1"
